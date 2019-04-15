@@ -26,11 +26,11 @@ else
     A_gray=A;
     B_gray=B;
 end
-%figure; imshow(A,[]);export_fig('1I1.tif','-native');
-%figure; imshow(B,[]);export_fig('1I2.tif','-native');
+%figure; imshow(A,[]);
+%figure; imshow(B,[]);
 
-%figure; imshow(A_gray,[]);export_fig('1Ig1.tif','-native');
-%figure; imshow(B_gray,[]);export_fig('1Ig2.tif','-native');
+%figure; imshow(A_gray,[]);
+%figure; imshow(B_gray,[]);
 
 
 [high, with] = size(A_gray);
