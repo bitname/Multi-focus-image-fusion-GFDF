@@ -1,7 +1,7 @@
 # GFDF_2019SPIC
 Multi-focus images fusion using Guided Filter and mean filter. This is the MATLAB codes for "Guided filter-based multi-focus image fusion through focus region detection".
 
-**GFDF: [Paper] (https://www.sciencedirect.com/science/article/abs/pii/S0923596518302832) 
+**GFDF: [Paper] (http://www.sciencedirect.com/science/article/pii/S0923596518302832)
 
 ## Fusion Architecture
 
