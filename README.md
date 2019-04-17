@@ -8,13 +8,12 @@ Multi-focus images fusion using Guided Filter and mean filter. This is the MATLA
 ## Citation
 If you use this code for your research, please cite our papers.
 ```
-@inproceedings{Qiu:2019gfdf,
-author = {Xiaohua Qiu,Min Li,Liqiong Zhang,Xianjie Yuan},
-title = {{Guided filter-based multi-focus image fusion through focus region detection}},
-booktitle = {Signal Processing: Image Communication},
-year = {2019},
-publisher = {Elsevier},
-month = march
+@article{QIU201935,
+  title={Guided filter-based multi-focus image fusion through focus region detection},
+  author={Xiaohua Qiu,Min Li,Liqiong Zhang,Xianjie Yuan},
+  journal={Signal Processing: Image Communication},
+  year={2019},
+  publisher={Elsevier}
 }
 ```
 ## Contact
